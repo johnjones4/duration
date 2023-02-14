@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/senseyeio/duration"
+	"github.com/johnjones4/duration"
 )
 
 const dateLayout = "Jan 2, 2006 at 03:04:05"
